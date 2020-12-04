@@ -35,6 +35,12 @@
       "firstname": "Yahia",
       "surname": "Mystery",
       "cohort": 11
+    },
+    {
+      "id": 7,
+      "firstname": "Sally",
+      "surname": "Sami",
+      "cohort": 30
     }
   ],
   "hobbies": [
